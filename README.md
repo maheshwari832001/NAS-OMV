@@ -1,2 +1,2 @@
-# NAS-OMV
-Project to deploy and configure a NAS (Network Attached Storage) using OpenMediaVault in VirtualBox
+# NAS-Server-OMV
+Deploying a NAS (Network Attached Storage) Server using OpenMediaVault in VirtualBox
