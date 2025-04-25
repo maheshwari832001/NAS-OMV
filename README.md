@@ -11,8 +11,20 @@ This project demonstrates the setup of a Network Attached Storage (NAS) system u
 - EXT4 File System
 - Windows File Access
 
-  ## Folder Structure
+## Folder Structure
 
 - `home`: Personal folders
 - `privateshare`: Restricted shared folder
 - `publicshare`: Public read-only folder
+
+## Users & Groups
+- Users: maheshwari, swathi, swagath
+- Groups: team1, team2, team3
+
+## Access Summary
+| Folder       | Access Type             | Who Has Access                         |
+|--------------|-------------------------|----------------------------------------|
+| home         | Private Read/Write      | Each user to their own folder          |
+| privateshare | Restricted Read/Write   | Only specific users                    |
+| publicshare  | Guest Read-Only         | Everyone     (No credentials required) |       
+
