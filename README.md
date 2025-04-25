@@ -33,7 +33,7 @@ This project demonstrates the setup of a Network Attached Storage (NAS) system u
 - Faced SMB permission issues
 - Resolved via user groups and folder permission settings
 - Faced `502 Bad Gateway` Error in OpenMediaVault Web UI After System Update
-- **Refer to** : [Fixing 502 error.pdf](./Fixing%20505%20error.pdf)
+- **Refer to** : [Fixing 502 error.pdf](./Fixing%20502%20error.pdf)
 
 
 ## Conclusion
