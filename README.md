@@ -28,3 +28,13 @@ This project demonstrates the setup of a Network Attached Storage (NAS) system u
 | privateshare | Restricted Read/Write   | Only specific users                    |
 | publicshare  | Guest Read-Only         | Everyone     (No credentials required) |       
 
+
+## Troubleshooting
+- Faced SMB permission issues
+- Resolved via user groups and folder permission settings
+- Faced `502 Bad Gateway` Error in OpenMediaVault Web UI After System Update
+- Refer to: `Fixing 502 error.pdf`
+
+
+## Conclusion
+Successfully deployed a fully functional NAS in VirtualBox, configured file sharing protocols, tested access from multiple devices, and documented the entire process.
